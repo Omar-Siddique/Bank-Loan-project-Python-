@@ -101,6 +101,8 @@ The objective is to transform raw financial data into meaningful business insigh
 The project includes various charts and graphs to better understand:
 
 * Monthly lending trends
+* <img width="1237" height="608" alt="Screenshot 2026-07-07 203651" src="https://github.com/user-attachments/assets/2741a1c8-4dcd-4c96-ac6e-b82ecf81a008" />
+
 * Regional loan distribution
 * Loan purpose comparison
 * Loan status analysis
