@@ -101,13 +101,15 @@ The objective is to transform raw financial data into meaningful business insigh
 The project includes various charts and graphs to better understand:
 
 * Monthly lending trends
-* <img width="1237" height="608" alt="Screenshot 2026-07-07 203651" src="https://github.com/user-attachments/assets/2741a1c8-4dcd-4c96-ac6e-b82ecf81a008" />
-
+* <img width="1238" height="611" alt="image" src="https://github.com/user-attachments/assets/18a6f7e4-d417-43bb-b52f-b87ce8ff29ae" />
 * Regional loan distribution
 * Loan purpose comparison
+* <img width="1235" height="737" alt="Screenshot 2026-07-07 204619" src="https://github.com/user-attachments/assets/64be4f71-e445-4ca7-bc5c-66c3dbe9e335" />
 * Loan status analysis
 * Employment length distribution
 * Home ownership patterns
+* <img width="1678" height="660" alt="Screenshot 2026-07-07 204527" src="https://github.com/user-attachments/assets/da22fbdb-1a0a-4dc7-a397-232166520ba6" />
+
 
 ---
 
